@@ -145,6 +145,14 @@ h1:hover {
     color: hsl(228, 45%, 44%); 
 }
 
- @media screen and (max-width:375px) {
-    /* Still trying to figure out */
+@media screen and (max-width: 1100px) {
+   .card {
+       width: 25%;
+   }
+}
+
+@media screen and (max-width:800px) {
+    .card {
+        width: 50%;
+    }
  }
