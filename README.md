@@ -77,7 +77,7 @@ I am still researching to make this project responsive. I am still fairly a begi
 ### Useful resources
 
 - [resource 1](https://www.w3schools.com) - This helped learn how to do the image hover overlay. I really liked this pattern and will use it going forward.
-- [ resource 2](https://www.developer.mozilla.org.com) - This is an amazing website which helped me finally understand most of the syntax I didn't know in CSS. I'd recommend it to anyone still learning this Front End Development.
+- [ resource 2](https://www.developer.mozilla.org) - This is an amazing website which helped me finally understand most of the syntax I didn't know in CSS. I'd recommend it to anyone still learning this Front End Development.
 
 
 ## Author
